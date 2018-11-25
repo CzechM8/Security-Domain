@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk View"
+    id="ecff09a7-86e0-4895-b9f3-87028be28a1d">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2d7bdd93-dff6-482b-9012-6539d201ef2a">
+    <bounds
+        x="484"
+        y="229"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_4f35b36a-e3a7-4779-bafa-5732b2e4e023.xml#4f35b36a-e3a7-4779-bafa-5732b2e4e023"/>
+  </children>
+</archimate:ArchimateDiagramModel>
